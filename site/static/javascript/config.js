@@ -1,0 +1,1 @@
+var SubDomain = 'eshop'; var SiteID = '8A1DEE12-0999-4823-9F3B-099DA26326F3'; var host = 'https://api.eraconnect.net';
